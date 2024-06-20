@@ -1,0 +1,18 @@
+E:\Программы для сайта\DW 4 Unpacker\bin\Debug\DW 4 Unpacker.exe
+E:\Программы для сайта\DW 4 Unpacker\bin\Debug\DW 4 Unpacker.pdb
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.AssemblyReference.cache
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW_4_Unpacker.Form1.resources
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW_4_Unpacker.Properties.Resources.resources
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.GenerateResource.cache
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.CoreCompileInputs.cache
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.exe
+E:\Программы для сайта\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.pdb
+D:\Programs\DW 4 Unpacker\bin\Debug\DW 4 Unpacker.exe
+D:\Programs\DW 4 Unpacker\bin\Debug\DW 4 Unpacker.pdb
+D:\Programs\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.AssemblyReference.cache
+D:\Programs\DW 4 Unpacker\obj\Debug\DW_4_Unpacker.Form1.resources
+D:\Programs\DW 4 Unpacker\obj\Debug\DW_4_Unpacker.Properties.Resources.resources
+D:\Programs\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.GenerateResource.cache
+D:\Programs\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.csproj.CoreCompileInputs.cache
+D:\Programs\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.exe
+D:\Programs\DW 4 Unpacker\obj\Debug\DW 4 Unpacker.pdb
